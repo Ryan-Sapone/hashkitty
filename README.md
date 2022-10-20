@@ -7,7 +7,7 @@ This script is written in Python 3 and makes use of the pwntools library and the
 You can install pwntools by the following command: pip3 install pwntools
 
 <h2>Usage</h2>
-hashkitty is currently only capable of cracking single hashes at a time, and only hashes in the form of MD5, SHA1, SHA224, SHA256, SHA384, and SHA512 [as of version 1.0 on 2022-10-20]. After getting the script, you can change the permissions of the .py file by the following command: chmod +x hashkitty.py <br>
+hashkitty is currently only capable of cracking single hashes at a time, and only hashes in the form of MD5, SHA1, SHA224, SHA256, SHA384, and SHA512 [as of version 1.0 on 2022-10-20]. After getting the script, you can change the permissions of the .py file by the following command: chmod +x hashkitty.py <br><br>
 
 The syntax for hashkitty requires three arguments - the .py file, the hash (the raw string not the file), and the path to your wordlist. <br>
 
