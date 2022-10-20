@@ -22,5 +22,5 @@ Please see the below test cases and examples of how to use hashkitty. <br><br>
 <br>
 
 <h2>More</h2>
-Please feel free to update and improve as you see fit. I would love to see any improvements and will be looking to continue with updates in the future. For funsies, I included a few hashes for you to try out using the rockyou wordlist. Don't worry - all of these hashes are capable of being cracked with this script and with the rockyou list. 
+Please feel free to update and improve as you see fit. I would love to see any improvements and will be looking to continue with updates in the future. For funsies, I included a few hashes for you to try out using the rockyou wordlist. Don't worry - all of these hashes are capable of being cracked with this script and with the rockyou list. <a href="https://github.com/Ryan-Sapone/hashkitty/blob/main/test_hashes.md">Click Here</a>
 
